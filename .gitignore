@@ -1,6 +1,11 @@
 # data directory
 data/
 
+#csv and other data files
+*.csv
+*.zip
+*.rar
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
